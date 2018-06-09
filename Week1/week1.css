@@ -1,0 +1,52 @@
+#background {
+	width: 640px;
+	height: 530px;
+	background-color: #FFE588;
+}
+
+#header {
+	width: 640px;
+	height: 56px;
+	padding-top: 10px;
+}
+#top {
+	width: 208px;
+	float: left;
+
+}
+
+#content {
+	padding-top: 10px;
+}
+
+#column {
+	width: 640px;
+	height: 60px;
+	position: relative;
+}
+
+#check {
+	float: left;
+	z-index: 1;
+}
+
+#mission {
+	height: 60px;
+	width: 520px;
+	display:flex;
+	align-items: center;
+	float: left;
+	z-index: 1;
+}
+
+#star {
+	float:left;
+	z-index: 1;
+}
+
+#path {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index: 0;
+}
