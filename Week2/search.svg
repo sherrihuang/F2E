@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>search</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-928.000000, -106.000000)">
+            <g id="search" transform="translate(731.000000, 105.000000)">
+                <rect id="Rectangle-2" stroke="#FFFFFF" x="0.5" y="0.5" width="235" height="35"></rect>
+                <path d="M217.253826,20.204591 L217.59852,19.8820547 C218.803817,18.7542378 219.5,17.1834425 219.5,15.5 C219.5,12.1862915 216.813708,9.5 213.5,9.5 C210.186292,9.5 207.5,12.1862915 207.5,15.5 C207.5,18.8137085 210.186292,21.5 213.5,21.5 C214.722891,21.5 215.88981,21.1339295 216.877806,20.4596352 L217.252984,20.2035807 L217.3988,20.3785595 L217.253826,20.204591 Z M223.588313,26.2439262 L222.051871,27.524295 L217.056826,21.5302412 C215.990479,22.1606244 214.77007,22.5 213.5,22.5 C209.634007,22.5 206.5,19.3659932 206.5,15.5 C206.5,11.6340068 209.634007,8.5 213.5,8.5 C217.365993,8.5 220.5,11.6340068 220.5,15.5 C220.5,17.3016617 219.815286,18.9947331 218.616313,20.2775262 L223.588313,26.2439262 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
